@@ -51,3 +51,13 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
+
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=codecraft732&theme=radical&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codecraft732&theme=tokyonight&show_icons=true&count_private=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=codecraft732&theme=tokyonight)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codecraft732&theme=tokyonight&layout=compact)
+
