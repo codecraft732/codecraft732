@@ -52,8 +52,7 @@ Here are some ideas to get you started:
 
 
 
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=codecraft732&theme=radical&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-trophies.vercel.app/?username=codecraft732&theme=radical&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codecraft732&theme=tokyonight&show_icons=true&count_private=true)
 
