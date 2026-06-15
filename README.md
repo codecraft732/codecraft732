@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
+![HTML](https://img.shields.io/badge/HTML-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
 [![Trophies](https://github-trophies.vercel.app/?username=codecraft732&theme=radical&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
