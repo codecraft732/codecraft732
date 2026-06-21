@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Alishba Imran 👋
 
+I am an *Android Developer* and Software Engineering student with a passion for building clean, efficient, and scalable mobile applications. I am currently seeking internship opportunities to apply and further develop my technical skills.
 
 ## 🛠️ Tech Stack
 
@@ -61,3 +63,9 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codecraft732&theme=tokyonight&layout=compact)
 
+
+
+### 📫 Connect with Me
+
+- *LinkedIn:* [linkedin.com/in/alishba-imran54](https://linkedin.com/in/alishba-imran54)
+- *Email:* alishbaimran6776@gmail.com
