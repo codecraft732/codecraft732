@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Alishba Imran 👋
+# Hi there, I'm Alishba👋
 
 I am an *Android Developer* and Software Engineering student with a passion for building clean, efficient, and scalable mobile applications. I am currently seeking internship opportunities to apply and further develop my technical skills.
 
